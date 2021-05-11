@@ -1,1 +1,1 @@
-# OpenCV-Exercises-and-Applications
+# OpenCV Exercises and Applications
