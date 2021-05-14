@@ -18,7 +18,7 @@ Hi everyone! In this repository, there are OpenCV projects and exercises that I 
 
 | Exercises No     | Exercises Name                                           | Link                                   |
 | -----------------|:---------------------------------------------------------|:---------------------------------------|
-| 1                | Shape Detection                                          | [Go to Exercise Source Code]() |
-| 2                | Aspect Ratio.                                            | [Go to Exercise Source Code]() |
-| 3                | Drawing Exercises                                        | [Go to Exercise Source Code]() |
-| 4                | Detecting the Corners of an Image                        | [Go to Exercise Source Code]() |
+| 1                | Shape Detection                                          | [Go to Exercise Source Code](https://github.com/keremkargin0/OpenCV-Projects-and-Exercises/blob/main/Exercises/01.Shape%20Detection.py) |
+| 2                | Aspect Ratio                                             | [Go to Exercise Source Code](https://github.com/keremkargin0/OpenCV-Projects-and-Exercises/blob/main/Exercises/02.Aspect%20Ratio.py) |
+| 3                | Drawing Exercises                                        | [Go to Exercise Source Code](https://github.com/keremkargin0/OpenCV-Projects-and-Exercises/blob/main/Exercises/03.Drawing%20Exercises.py) |
+| 4                | Detecting the Corners of an Image                        | [Go to Exercise Source Code](https://github.com/keremkargin0/OpenCV-Projects-and-Exercises/blob/main/Exercises/04.Detecting%20the%20Corners%20of%20an%20Image.py) |
