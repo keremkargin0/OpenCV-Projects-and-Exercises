@@ -2,7 +2,7 @@
  
 Hi everyone! In this repository, there are OpenCV projects and exercises that I created with Python. 
 
-## [OpenCV Projects](https://github.com/keremkargin0/OpenCV-Projects-and-Exercises/tree/main/Applications)
+## [OpenCV Projects](https://github.com/keremkargin0/OpenCV-Projects-and-Exercises/tree/main/Projects)
 
 
 | Project No     | Project Name                                             | Link                                   |
