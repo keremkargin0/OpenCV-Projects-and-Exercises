@@ -8,3 +8,4 @@ In this Repository, there are applications I created with OpenCV in the Computer
 - [04.Wordcloud with Optical Character Recognition](https://github.com/keremkargin0/OpenCV-Exercises-and-Applications/blob/main/Applications/04.WordCloud%20with%20Optical%20Character%20Recognition.py)
 - [05.Object Tracking](https://github.com/keremkargin0/OpenCV-Exercises-and-Applications/blob/main/Applications/05.Object%20Tracking.py)
 - [06.KNN Handwritten Digits Recognition](https://github.com/keremkargin0/OpenCV-Projects-and-Exercises/blob/main/Projects/06.KNN%20Handwritten%20Digits%20Recognition.py)
+- [07.Gender and Age Detection](https://github.com/keremkargin0/OpenCV-Projects-and-Exercises/blob/main/Projects/07.Gender%20and%20Age%20Detection.py)
