@@ -27,5 +27,5 @@ Hi everyone! In this repository, there are OpenCV projects and exercises that I 
 | 5                | Take a Screenshot                                        | [Go to Exercise Source Code](https://github.com/keremkargin0/OpenCV-Projects-and-Exercises/blob/main/Exercises/05.Take%20a%20Screenshot.py)
 | 6                | Background Subtraction                                   | [Go to Exercise Source Code](https://github.com/keremkargin0/OpenCV-Projects-and-Exercises/blob/main/Exercises/06.Background%20Subtraction.py)
 | 7                | Mouse Event                                              | [Go to Exercise Source Code](https://github.com/keremkargin0/OpenCV-Projects-and-Exercises/blob/main/Exercises/07.Mouse%20Event.py)
-
-
+| 8                | Smoothing Operations                                     | [Go to Exercise Source Code](https://github.com/keremkargin0/OpenCV-Projects-and-Exercises/blob/main/Exercises/08.Smoothing%20Operations.py)
+ 
