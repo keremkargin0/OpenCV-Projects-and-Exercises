@@ -9,3 +9,4 @@ In this repository, there are examples where you can improve yourself with OpenC
 - [05.Take a Screenshot](https://github.com/keremkargin0/OpenCV-Projects-and-Exercises/blob/main/Exercises/05.Take%20a%20Screenshot.py)
 - [06.Background Subtraction](https://github.com/keremkargin0/OpenCV-Projects-and-Exercises/blob/main/Exercises/06.Background%20Subtraction.py)
 - [07.Mouse Event](https://github.com/keremkargin0/OpenCV-Projects-and-Exercises/blob/main/Exercises/07.Mouse%20Event.py)
+- [08.Smoothing Operations](https://github.com/keremkargin0/OpenCV-Projects-and-Exercises/blob/main/Exercises/08.Smoothing%20Operations.py)
