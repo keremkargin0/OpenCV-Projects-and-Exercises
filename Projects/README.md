@@ -9,3 +9,4 @@ In this Repository, there are applications I created with OpenCV in the Computer
 - [05.Object Tracking](https://github.com/keremkargin0/OpenCV-Exercises-and-Applications/blob/main/Applications/05.Object%20Tracking.py)
 - [06.KNN Handwritten Digits Recognition](https://github.com/keremkargin0/OpenCV-Projects-and-Exercises/blob/main/Projects/06.KNN%20Handwritten%20Digits%20Recognition.py)
 - [07.Gender and Age Detection](https://github.com/keremkargin0/OpenCV-Projects-and-Exercises/blob/main/Projects/07.Gender%20and%20Age%20Detection.py)
+- [08.License Plate Detection](https://github.com/keremkargin0/OpenCV-Projects-and-Exercises/blob/main/Projects/08.License%20Plate%20Detection.py)
