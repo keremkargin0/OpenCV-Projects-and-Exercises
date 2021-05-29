@@ -15,6 +15,7 @@ Hi everyone! In this repository, there are OpenCV projects and exercises that I 
 | 6              | KNN Handwritten Digits Recognition                       | [Go to Project Source Code](https://github.com/keremkargin0/OpenCV-Projects-and-Exercises/blob/main/Projects/06.KNN%20Handwritten%20Digits%20Recognition.py)   
 | 7              | Gender and Age Detection                                 | [Go to Project Source Code](https://github.com/keremkargin0/OpenCV-Projects-and-Exercises/blob/main/Projects/07.Gender%20and%20Age%20Detection.py)
 | 8              | License Plate Detection                                  | [Go to Project Source Code](https://github.com/keremkargin0/OpenCV-Projects-and-Exercises/blob/main/Projects/08.License%20Plate%20Detection.py)
+| 9              | Eye Detection                                            | [Go to Project Source Code](https://github.com/keremkargin0/OpenCV-Projects-and-Exercises/blob/main/Projects/09.Eye%20Detection.py)
 
 
 ## [OpenCV Exercises](https://github.com/keremkargin0/OpenCV-Exercises-and-Applications/tree/main/Exercises)
